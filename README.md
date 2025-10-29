@@ -11,10 +11,9 @@
     </a>
   </h1>
   
-  <h3 align="center">⚡ MERN Developer | AI Tools Enthusias From India ⚡</h3>
-  
-</div>
+  <h3 align="center">⚡ A Passionate MERN Stack Developer from India </h3>
 
+</div>  
 ---
 ### 🌐 Connect With Me
 <p align="left">
@@ -29,7 +28,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:bharathbk1110@gmail.com" target="_blank">
+  <a href="bharathbk1110@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
