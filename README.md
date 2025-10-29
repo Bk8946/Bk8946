@@ -15,7 +15,7 @@
 
 </div>  
 ---
-### 🌐 Connect With Me
+ 🌐 Connect With Me
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bharath-kumar-96bhb55/" target="_blank">
@@ -28,7 +28,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="bharathbk1110@gmail.com" target="_blank">
+  <a href="mailto:bharathbk1110@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
