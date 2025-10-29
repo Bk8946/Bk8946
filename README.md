@@ -14,7 +14,7 @@
   <h3 align="center">⚡ A Passionate MERN Stack Developer from India </h3>
 
 </div>  
----
+
  🌐 Connect With Me
 <p align="left">
   <!-- LinkedIn -->
